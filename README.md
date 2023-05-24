@@ -104,3 +104,9 @@ Than (if you have App Services) add line of your connection string to applicatio
 - Zakala Oleksandr
 - [My project](https://github.com/Rovikido/SafeRoute)
 - [Pull request link](https://github.com/Rovikido/Zhuk.University.Tachka/pull/1#pullrequestreview-1441765335)
+
+<hr/>
+
+- Blystsiv Ostap
+- [My project](https://github.com/blystsiv/connectify)
+- [Pull request link](https://github.com/blystsiv/Zhuk.University.Tachka/pull/1)
